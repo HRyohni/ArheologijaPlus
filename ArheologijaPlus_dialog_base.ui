@@ -1,0 +1,41 @@
+<widget class="QComboBox" name="comboBox_group">
+ <property name="geometry">
+  <rect>
+   <x>164</x>
+   <y>60</y>
+   <width>150</width>
+   <height>25</height>
+  </rect>
+ </property>
+ <property name="toolTip" >
+  <string>Select Group</string>
+ </property>
+ <item>
+  <property name="text">
+   <string>Group 1</string>
+  </property>
+ </item>
+ <item>
+  <property name="text">
+   <string>Group 2</string>
+  </property>
+ </item>
+ <item>
+  <property name="text">
+   <string>Group 3</string>
+  </property>
+ </item>
+</widget>
+<widget class="QLabel" name="label_group">
+ <property name="geometry">
+  <rect>
+   <x>9</x>
+   <y>60</y>
+   <width>149</width>
+   <height>16</height>
+  </rect>
+ </property>
+ <property name="text">
+  <string>Select Group:</string>
+ </property>
+</widget>
